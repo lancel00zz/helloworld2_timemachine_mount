@@ -1,0 +1,7 @@
+instances:
+  - tags:
+      - service:helloworld2_latest_backup
+      - component:timemachine
+      - signal:latest_backup
+      - version:1.0.0
+      - timemachine_destination:seagate_time_machine_5t
